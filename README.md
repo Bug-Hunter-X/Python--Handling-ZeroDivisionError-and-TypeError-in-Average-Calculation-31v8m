@@ -1,0 +1,1 @@
+This repository contains a Python function that calculates the average of a list of numbers.  The original code had a flaw: it could raise a ZeroDivisionError if the input list was empty or a TypeError if the list contained non-numeric elements.  The improved version includes comprehensive error handling to address these issues.
